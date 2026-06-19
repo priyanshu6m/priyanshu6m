@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Goyal
 
-<!--
-**priyanshu6m/priyanshu6m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Medi-Caps University
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Open Source Contribution
+- Advanced React
+- System Design
+
+🚀 Projects
+- Video Calling App
+- MERN Stack Projects
+
+🛠 Tech Stack
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/priyanshu6m7/
+- Email: goyalpriyanshu345@gmail.com
